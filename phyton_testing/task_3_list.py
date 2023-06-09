@@ -23,3 +23,4 @@ print(test_list)
 
 print(len(test_list)) # получить длину списка
 
+
