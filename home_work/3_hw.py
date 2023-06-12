@@ -34,6 +34,6 @@ else:
 
 a = [1, 2, -3, 4, 58]
 
-for num in a:
-    if num > 0:
-        print(len(num))
+count = a.count(int())
+if a > 0:
+    print(count)
